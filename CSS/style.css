@@ -1,0 +1,125 @@
+
+
+
+.nav{
+    justify-content: end;
+    height: 35px;
+    width: 100%;
+    font-size: 25px;
+    
+}
+
+form {
+    border: 1px solid #729fcf;
+    border-radius: 10px;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 0px;
+    right: 0px;
+    bottom: 200px;
+    left: 1100px;
+    margin: auto;
+    padding: 20px;
+    background-color: #eeeeec;
+}
+
+.form-title {
+    text-align: center;
+    font-weight: bold;
+    color: #204a87;
+}
+
+.form-field {
+    padding: 3px;
+    margin-top: 30px;
+    border: 1px solid #729fcf;
+    border-radius: 5px;
+}
+
+.form-label {
+    width: 70px;
+    font-weight: bold;
+    color: #204a87;
+    border-radius: 5px;
+    float: left;
+}
+
+.form-value {
+    width: 114px;
+}
+
+.form-submit {
+    float: right;
+    margin-top: 10px;
+    color: #204a87;
+    cursor: pointer;
+}
+
+.form-error {
+    color: #cc0000;
+    font-weight: bold;
+    margin-top: 35px;
+    font-size: 13px;
+} 
+
+
+.servies-header{
+position: absolute;
+left: 30px;
+top: 100px;
+}
+
+
+.card-body{
+    position: absolute;
+left: 10px;
+top: 150px;
+ width: 300px;
+ height: 300px;
+ font-size: 15px;
+}
+.card-body_1{
+    position: absolute;
+    left: 20px;
+    top: 550px;
+     width: 280px;
+     height: 300px;
+}
+
+.promotion {
+    position: absolute;
+    left: 500px;
+    top: 100px;
+     width: 500px;
+     height: 400px;
+     
+}
+.servies-header_1{
+    position: absolute;
+    left: 130px;
+    top: -10px;
+    
+} 
+.card-body_2{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+
+
+.photo {
+    display: flex;
+    position: absolute;
+    left: 20px;
+    top: 480px;
+    padding-top: -20px;
+    gap: 20px;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
